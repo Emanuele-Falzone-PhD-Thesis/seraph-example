@@ -1,4 +1,4 @@
-# Princeton–Plainsboro Teaching Hospital (PPTH)
+# Princeton–Plainsboro Teaching Hospital (PPTH)
 
 The  Princeton–Plainsboro Teaching Hospital (PPTH) has a strict policy to prevent the diffusion of viral diseases inside the  buildings.
 Doctors and nurses are equiped with a Smart Identification Tag (SIT).
